@@ -1,0 +1,15 @@
+body {
+    font-family: Times;
+    margin-top: 300px;
+    text-align: center;
+    color: white;
+}
+
+#clock {
+    font-weight: 300;
+    font-size: 120px;
+}
+
+#color{
+    display: none;   
+}
